@@ -56,7 +56,7 @@ Change the **Core Option** for **Turbo Enable** to the player(s) you desire. You
 
 ## Overscan
 
-Overscan is the part of the game field that is typically hidden behind the margins of consumer CRTs. However, you may want to enaable it for some games if anything seems cropped.
+Overscan is the part of the game field that is typically hidden behind the margins of consumer CRTs. However, you may want to enable it for some games if anything seems cropped.
 
 ### lr-fceumm
 
